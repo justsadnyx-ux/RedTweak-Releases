@@ -39,5 +39,5 @@ RedTweak is proprietary freeware. See [LICENSE](LICENSE).
 
 ## Links
 
-- Website: https://redtweak.vercel.app
+- Website: [VISIT REDTWEAK](https://redtweak.pages.dev/)
 - Issues: use the website contact page
